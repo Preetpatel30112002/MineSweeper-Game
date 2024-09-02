@@ -1,7 +1,9 @@
-**Minesweeper Game**
+_**Minesweeper Game:**_
+
 This is a Python implementation of the classic Minesweeper game, where players attempt to clear a grid of hidden mines without detonating any. The game is played on a 10x10 board, with a random distribution of 10 bombs. The player can either "dig" to uncover a cell or "flag" a cell that they suspect contains a bomb. The game ends when all non-bomb cells are uncovered, or when the player digs a bomb.
 
-**How to Play**
+_**How to Play**_
+  
   1)Board Setup:
     -The game board consists of a 10x10 grid, where each cell is either empty, contains a bomb (*), or displays a number representing the count of bombs in adjacent cells.
     -The player’s goal is to uncover all cells without triggering a bomb.
@@ -20,5 +22,6 @@ This is a Python implementation of the classic Minesweeper game, where players a
     -The game ends when the player hits a bomb or successfully uncovers all safe cells.
     -After the game ends, the player has the option to replay.
 
-**License**
+_**License:**_
+
   -This Minesweeper game is open-source and free to use under the MIT License.
