@@ -12,9 +12,7 @@ _**How to Play**_
   2)User Actions:
   
     -The player inputs coordinates to either dig or flag a cell.
-    
     -To dig a cell, enter the coordinates in the format row,column (e.g., 1,1).
-    
     -To flag a cell (suspected of containing a bomb), add an f after the coordinates (e.g., 1,1f).
     
   3)Game Rules:
@@ -24,6 +22,7 @@ _**How to Play**_
     -The game is won when all non-bomb cells are uncovered.
     
   4)Game End:
+  
     -The game ends when the player hits a bomb or successfully uncovers all safe cells.
     -After the game ends, the player has the option to replay.
 
